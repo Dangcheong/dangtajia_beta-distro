@@ -443,6 +443,26 @@
           }
         },
         {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.19+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1280293,
+            "url": "https://raw.githubusercontent.com/Dangcheong/dangtajia_beta-distro/main/servers/dangtajia_beta-1.20.1/forgemods/required/embeddium-0.3.19+mc1.20.1-all.jar",
+            "MD5": "1b272575bea5f1e7c61a4d189b712343"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2831148,
+            "url": "https://raw.githubusercontent.com/Dangcheong/dangtajia_beta-distro/main/servers/dangtajia_beta-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
+            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
