@@ -443,6 +443,16 @@
           }
         },
         {
+          "id": "generated.forgemod:koreanpatch:1.3.1-1.20.1@jar",
+          "name": "Koreanpatch",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 39387,
+            "url": "https://raw.githubusercontent.com/Dangcheong/dangtajia_beta-distro/main/servers/dangtajia_beta-1.20.1/forgemods/required/koreanpatch-1.3.1-1.20.1.jar",
+            "MD5": "6fdcbf1aadc8dcdf9d5673269417dc4c"
+          }
+        },
+        {
           "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.19+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
