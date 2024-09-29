@@ -12,7 +12,7 @@
       "name": "당타지아 베타 테스트",
       "description": "dangtajia_beta Running Minecraft 1.20.1 (Forge v47.3.0)",
       "icon": "https://raw.githubusercontent.com/Dangcheong/dangtajia_beta-distro/main/serverimg.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "당타지아.서버.한국:20886",
       "minecraftVersion": "1.20.1",
       "discord": {
