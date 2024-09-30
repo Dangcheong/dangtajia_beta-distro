@@ -12,7 +12,7 @@
       "name": "당타지아 베타 테스트",
       "description": "dangtajia_beta Running Minecraft 1.20.1 (Forge v47.3.0)",
       "icon": "https://raw.githubusercontent.com/Dangcheong/dangtajia_beta-distro/main/serverimg.png",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "당타지아.서버.한국:20886",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -433,6 +433,16 @@
           ]
         },
         {
+          "id": "moe.caramel.chat:caramelchat:1.2.0@jar",
+          "name": "CaramelChat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 348530,
+            "url": "https://raw.githubusercontent.com/Dangcheong/dangtajia_beta-distro/main/servers/dangtajia_beta-1.20.1/forgemods/required/caramelChat-mc1.20.1-forge-1.2.0.jar",
+            "MD5": "5d362f779efdb0384f8b43815fd46e0c"
+          }
+        },
+        {
           "id": "xaero.minimap:xaerominimap:24.4.0@jar",
           "name": "Xaero's Minimap",
           "type": "ForgeMod",
@@ -440,16 +450,6 @@
             "size": 1531047,
             "url": "https://raw.githubusercontent.com/Dangcheong/dangtajia_beta-distro/main/servers/dangtajia_beta-1.20.1/forgemods/required/Xaeros_Minimap_24.4.0_Forge_1.20.jar",
             "MD5": "8e6213d8af09b40282230f0dd3abdc7c"
-          }
-        },
-        {
-          "id": "generated.forgemod:koreanpatch:1.3.1-1.20.1@jar",
-          "name": "Koreanpatch",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 39387,
-            "url": "https://raw.githubusercontent.com/Dangcheong/dangtajia_beta-distro/main/servers/dangtajia_beta-1.20.1/forgemods/required/koreanpatch-1.3.1-1.20.1.jar",
-            "MD5": "6fdcbf1aadc8dcdf9d5673269417dc4c"
           }
         },
         {
